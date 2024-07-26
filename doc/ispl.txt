@@ -7,7 +7,7 @@
 |_____|_____/|_|    |______| ~
 
 ======================================================================
-CONTENTS                                           *ispl.vim-features*
+CONTENTS                                           *ispl.vim-contents*
 
     1. Features.............. |ispl.vim-features|
     4. About ................ |ispl.vim-about|
