@@ -1,0 +1,25 @@
+ *ispl.txt* ISPL syntax highlighting and filetype detection
+ _____  _____ _____  _       ~
+|_   _|/ ____|  __ \| |      ~
+  | | | (___ | |__) | |      ~
+  | |  \___ \|  ___/| |      ~
+ _| |_ ____) | |    | |____  ~
+|_____|_____/|_|    |______| ~
+
+======================================================================
+CONTENTS                                           *ispl.vim-features*
+
+    1. Features.............. |ispl.vim-features|
+    4. About ................ |ispl.vim-about|
+
+======================================================================
+FEATURES                                           *ispl.vim-features*
+
+- Filetype detection for ISPL files
+
+- Syntax highlighting for ISPL files
+
+======================================================================
+ABOUT                                                 *ispl.vim-about*
+
+Updates and issue tracker on: <https://github.com/jjwroeloffs/ispl.vim>
